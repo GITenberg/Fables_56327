@@ -1,16 +1,21 @@
 _repo: Fables_56327
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Grandville, J.J.
     gutenberg_agent_id: '48785'
     url: http://www.gutenberg.org/2009/agents/48785
+covers:
+- cover_type: archival
+  image_path: 56327-h/images/cover.jpg
 creator:
   author:
     agent_name: Fontaine, Jean de  la
     gutenberg_agent_id: '48784'
     url: http://www.gutenberg.org/2009/agents/48784
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56327#Fables
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR Contes
